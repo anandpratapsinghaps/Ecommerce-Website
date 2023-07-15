@@ -148,6 +148,7 @@ small{
 .testimonial .small-container{
     display: flex;
     flex-wrap: wrap ;
+    gap: 45px;
 }
 .testimonial col-3{
     text-align: center;
