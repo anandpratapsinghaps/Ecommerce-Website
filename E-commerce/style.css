@@ -372,4 +372,14 @@ input:focus{
     .col-2,.col-3,.col-4,.container-footer,.small-container-offer{
         flex-basis: 100%;
     }
+    .details .row{
+        text-align: left;
+    }
+    .details .col-2{
+        padding: 20px 0;
+    }
+    .details h1{
+        font-size: 26px;
+        line-height: 32px;
+    }
 }
