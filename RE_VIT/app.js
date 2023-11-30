@@ -8,6 +8,7 @@ function menutoggle(){
         Menuitems.style.maxHeight="0px";
     }
 }
+
     // for account form
 
 function register() {
